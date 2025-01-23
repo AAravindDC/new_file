@@ -13,7 +13,7 @@ public class Main {
         System.out.println("My mark for Math is "+ math+"%");
         System.out.println("My mark for English is "+ english+"%");
         System.out.println("My mark for Science is "+ science+"%");
-        //this is a new line
+        //this is a new line is new
 
         }
     }
