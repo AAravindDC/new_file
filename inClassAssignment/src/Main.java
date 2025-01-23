@@ -1,8 +1,7 @@
-import java.util.*;
 // Name: Aravind Arampu
 // Program Name: inClassAssignment1
 // Program description: This program will convert two units of measurements
-
+import java.util.*;
 public class Main {
     private static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
