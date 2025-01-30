@@ -1,6 +1,8 @@
 // Name: Aravind Arampu
 // Program Name: BodyMassIndex
-// Program description: This program will convert two units of measurements
+// Program description: This program will calculate a person's BMI using their height in inches
+//                      and weight in pounds, and then display the calculated BMI and what
+//                      category the BMI value is.
 //Date: Jan 30 2025
 import java.util.*;
 public class BodyMassIndex {
